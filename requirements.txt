@@ -1,7 +1,7 @@
-streamlit==1.28.0  # or whatever the latest version is
-Pillow==10.0.1  # example
-rembg==2.0.47  # example
-onnxruntime==1.16.0 # example
-opencv-python==4.8.0.74  # example
-scikit-image==0.21.0 # example
-numpy==1.26.0
+streamlit
+Pillow
+rembg
+onnxruntime
+opencv-python
+scikit-image
+numpy
