@@ -1,3 +1,7 @@
 streamlit
 Pillow
 rembg
+onnxruntime
+opencv-python
+scikit-image
+numpy
